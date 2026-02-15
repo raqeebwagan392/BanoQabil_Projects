@@ -62,38 +62,6 @@ A modern, responsive gym website built with HTML, CSS, and JavaScript. Features 
 - **Form Validation**: Comprehensive client-side validation
 - **Scroll to Top**: Floating button appears on scroll
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- No build tools or dependencies required!
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/powerfit-gym.git
-   ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd powerfit-gym
-   ```
-
-3. **Open the website**
-   - Simply open `index.html` in your web browser
-   - Or use a local development server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js (http-server)
-   npx http-server
-   ```
-
-4. **View in browser**
-   - Open `http://localhost:8000` in your browser
-
 ## 📂 Project Structure
 
 ```
@@ -230,5 +198,3 @@ const bmi = weight / (heightInMeters * heightInMeters);
 - [ ] Create blog section for fitness tips
 - [ ] Add multi-language support
 - [ ] Implement dark/light theme toggle
-
----
