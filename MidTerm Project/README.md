@@ -30,47 +30,6 @@ A modern, engaging quiz application built with pure HTML, CSS, and JavaScript. F
 - **Visual Indicators**: Color-coded feedback for easy understanding
 - **Retake Option**: Start a new quiz with different random questions
 
-## 🚀 Quick Start
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- No build tools, libraries, or dependencies required!
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/quizmaster.git
-   ```
-
-2. **Navigate to the project folder**
-   ```bash
-   cd quizmaster
-   ```
-
-3. **Open the application**
-   - Simply double-click `index.html` to open in your default browser
-   - Or right-click → "Open with" → Choose your browser
-   - Or use a local development server:
-   
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Python 2
-   python -m SimpleHTTPServer 8000
-   
-   # Using Node.js (http-server)
-   npx http-server
-   
-   # Using PHP
-   php -S localhost:8000
-   ```
-
-4. **Start playing!**
-   - Visit `http://localhost:8000` in your browser (if using local server)
-   - Click "Start Quiz" and test your knowledge!
-
 ## 📂 Project Structure
 
 ```
